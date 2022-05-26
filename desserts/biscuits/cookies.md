@@ -52,6 +52,8 @@ secs. Dans les autres pays anglophones on utilise le mot « biscuit ».
 * Ajouter le sucre dans le saladier
 * Ajouter le beurre ramolli dans le saladier
 * Mélanger
+* Ajouter les œufs
+* Mélanger
 * Ajouter environ la moitié de la farine dans le saladier
 * Mélanger
 * Ajouter le reste la farine dans le saladier
