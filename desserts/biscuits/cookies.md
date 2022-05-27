@@ -32,7 +32,7 @@ secs. Dans les autres pays anglophones on utilise le mot « biscuit ».
 * Sucre en poudre : 165 grammes
 * Œufs de poule moyens : 2, soit 100 grammes
 * Pépites de chocolat 50% cacao : 100 grammes
-* Levure chimique : 1 sachet soit 11 grammes
+* Levure chimique : 1/2 sachet soit 5,5 grammes
 
 ## Équipement
 
