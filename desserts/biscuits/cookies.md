@@ -16,6 +16,10 @@ secs. Dans les autres pays anglophones on utilise le mot « biscuit ».
 * masse totale : 740 grammes
 * énergie approximative : 15 MJ (3600 kcal)
 
+## Prix
+
+* 4€50 soit 6€10/kg
+
 ## Durée
 
 * préparation : 10 minutes
