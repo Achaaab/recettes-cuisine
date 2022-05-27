@@ -9,7 +9,7 @@ significatifs.
 ## Énergie
 
 | Ingrédient                       | Énergie pour 100 grammes |
----------------------------------------------------------------
+| -------------------------------- | ------------------------ |
 | Beurre demi-sel                  | 3050 kJ                  |
 | Chocolat 50% cacao               | 2160 kJ                  |
 | Farine blanche                   | 1490 kJ                  |
